@@ -7,7 +7,7 @@ rdoc
 # yard generated
 doc
 .yardoc
-
+.redcar
 # bundler
 .bundle
 
