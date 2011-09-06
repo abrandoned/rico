@@ -9,6 +9,7 @@ rdoc
 doc
 .yardoc
 .redcar
+.swp
 # bundler
 .bundle
 
