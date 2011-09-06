@@ -1,6 +1,8 @@
 = rico
 
-Description goes here.
+Rico is a Ruby implementation of the Infinispan Hot Rod binary protocol.
+
+Rico is still under active development and does not have full implementation of hash/topology aware Infinispan.
 
 == Contributing to rico
  
